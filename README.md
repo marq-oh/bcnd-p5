@@ -15,8 +15,11 @@ Truffle tests can be used to run the test code:
 * SolnSquareVerifier: [0x424bedd7963e79f76C2A787d85c69cdC98906242](https://rinkeby.etherscan.io/address/0x424bedd7963e79f76C2A787d85c69cdC98906242)
 
 ### Contract Abis
-* Verifier: 
-* SolnSquareVerifier: 
+* [Verifier](https://github.com/marq-oh/bcnd-p5/blob/master/eth-contracts/build/contracts/Verifier.json)
+* [SolnSquareVerifier](https://github.com/marq-oh/bcnd-p5/blob/master/eth-contracts/build/contracts/SolnSquareVerifier.json) 
+
+### How tokens were minted
+Tokens were minted using MyEtherWallet with Metamask. [Instructions followed can be found on this YouTube video](https://www.youtube.com/watch?v=8MChn-NJJB0&feature=youtu.be).
 
 ### OpenSea MarketPlace Tokens:
 **Account: 0xCD8aE4FC686C7f06D89E8eFF867d3405C4cc1BB0**
