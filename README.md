@@ -15,8 +15,8 @@ Truffle tests can be used to run the test code:
 * SolnSquareVerifier: [0x424bedd7963e79f76C2A787d85c69cdC98906242](https://rinkeby.etherscan.io/address/0x424bedd7963e79f76C2A787d85c69cdC98906242)
 
 ### Contract Abis
-* Verifier: https://github.com/marq-oh/bcnd-p5/blob/master/eth-contracts/build/contracts/Verifier.json
-* SolnSquareVerifier: https://github.com/marq-oh/bcnd-p5/blob/master/eth-contracts/build/contracts/SolnSquareVerifier.json
+* [Verifier ABI](https://github.com/marq-oh/bcnd-p5/blob/master/eth-contracts/build/contracts/Verifier.json)
+* [SolnSquareVerifier](https://github.com/marq-oh/bcnd-p5/blob/master/eth-contracts/build/contracts/SolnSquareVerifier.json)
 
 ### OpenSea MarketPlace Storefront link
 
