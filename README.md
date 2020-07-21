@@ -6,7 +6,7 @@ Capstone project for Blockchain Developer course; the intent of the project is t
 
 ## Write-up
 ### How to test code
-Truffle tests can be used to run the test code:
+Truffle tests can be used to run the test code. Make sure you are in /eth-contracts directory.
 
 `truffle test`
 
